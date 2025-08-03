@@ -28,7 +28,7 @@ This is a simple portfolio website built using **HTML** and **CSS**. It's design
 For any questions or feedback, feel free to contact:
 
 - **Email**: josephlucia100@gmail.com  
-- **GitHub**: [@josephngaukon](https://github.com/Ngaukon)
+- **GitHub**: [@Ngaukon](https://github.com/Ngaukon)
 
 ---
 
